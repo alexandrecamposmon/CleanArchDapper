@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\bin\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\CleanCodeDAPPER.Infrastructure.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\CleanCodeDAPPER.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\CleanCodeDAPPER.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\CleanCodeDAPPER.Infrastructure.AssemblyInfo.cs
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\bin\Debug\net5.0\CleanCodeDAPPER.Infrastructure.deps.json
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\bin\Debug\net5.0\CleanCodeDAPPER.Infrastructure.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\bin\Debug\net5.0\ref\CleanCodeDAPPER.Infrastructure.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\bin\Debug\net5.0\CleanCodeDAPPER.Infrastructure.pdb
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\bin\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.pdb
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\CleanCodeDAPPER.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\CleanCodeDAPPER.Infrastructure.csproj.CopyComplete
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\CleanCodeDAPPER.Infrastructure.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\ref\CleanCodeDAPPER.Infrastructure.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDAPPER.Infrastructure\obj\Debug\net5.0\CleanCodeDAPPER.Infrastructure.pdb

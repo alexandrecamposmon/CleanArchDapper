@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\bin\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.deps.json
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\bin\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\bin\Debug\net5.0\ref\CleanCodeDAPPER.ApplicationCore.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\bin\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.pdb
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\obj\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\obj\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\obj\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.AssemblyInfo.cs
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\obj\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\obj\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\obj\Debug\net5.0\ref\CleanCodeDAPPER.ApplicationCore.dll
+C:\Users\alexa\source\repos\CleanCodeDAPPER\CleanCodeDapper.ApplicationCore\obj\Debug\net5.0\CleanCodeDAPPER.ApplicationCore.pdb
